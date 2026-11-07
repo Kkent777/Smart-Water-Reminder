@@ -67,3 +67,5 @@ The foam-board enclosure holds the board and battery pack while leaving the disp
 ## 中文简介
 
 这是一个 micro:bit V2 饮水提醒原型：每隔 30 分钟提醒，按 A 记录一次饮水，按 B 查看进度，A+B 查看目标，触摸标志复位，摇晃获得鼓励反馈。源码从自己的项目报告附录原样恢复，照片来自制作记录。此次仅完成源码一致性与静态语法检查，未重新编译、模拟运行或上板验证，也未找到对应的原始 `.hex` 文件。
+
+[中文项目简介（PDF）](docs/portfolio/Project-Brief-ZH.pdf)
